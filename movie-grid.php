@@ -3,7 +3,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/movie-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/movie-grid.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 <head>
     <meta charset="UTF-8">
 
@@ -87,7 +87,7 @@
                 <!-- ====== Start of Navbar ====== -->
                 <nav class="navbar navbar-expand-lg">
 
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <!-- INSERT YOUR LOGO HERE -->
                         <img src="assets/images/logo.svg" alt="logo" width="150" class="logo">
                         <!-- INSERT YOUR WHITE LOGO HERE -->
@@ -107,13 +107,13 @@
                         <ul class="navbar-nav mx-auto" id="main-menu">
                             <!-- Menu Item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link " href="index.html"  aria-haspopup="true" aria-expanded="false">Home</a>
+                                <a class="nav-link " href="index.php"  aria-haspopup="true" aria-expanded="false">Home</a>
 
                                 <!-- Dropdown Menu -->
                                 <!-- <ul class="dropdown-menu"> -->
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="index.html"></a> -->
+                                        <!-- <a class="dropdown-item" href="index.php"></a> -->
                                     <!-- </li> -->
                                 <!-- </ul> -->
                             </li>
@@ -130,14 +130,14 @@
 
                             <!-- Menu Item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link " href="blog-list.html"  aria-haspopup="true" aria-expanded="false">Blog</a>
+                                <a class="nav-link " href="blog-list.php"  aria-haspopup="true" aria-expanded="false">Blog</a>
 
                                
                             </li>
 
                             <!-- Menu Item -->
                             <li class="nav-item">
-                                <a class="nav-link" href="contact-us.html">Contact us</a>
+                                <a class="nav-link" href="contact-us.php">Contact us</a>
                             </li>
 
                         </ul>
@@ -188,7 +188,7 @@
                 <div class="inner">
                     <h2 class="title">Movie </h2>
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Movie </li>
                     </ol>
                 </div>
@@ -208,8 +208,8 @@
                     <div class="col-md-6">
                         <!-- Layout Switcher -->
                         <div class="layout-switcher">
-                            <a href="movie-list.html" class="list"><i class="fa fa-align-justify"></i></a>
-                            <a href="movie-grid.html" class="grid active"><i class="fa fa-th"></i></a>
+                            <a href="movie-list.php" class="list"><i class="fa fa-align-justify"></i></a>
+                            <a href="movie-grid.php" class="grid active"><i class="fa fa-th"></i></a>
                         </div>
                     </div>
 
@@ -939,5 +939,5 @@
 </body>
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/movie-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/movie-grid.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 </html>

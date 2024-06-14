@@ -3,7 +3,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:26:14 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/indexxa by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:26:14 GMT -->
 <head>
     <meta charset="UTF-8">
 
@@ -87,7 +87,7 @@
                 <!-- ====== Start of Navbar ====== -->
                 <nav class="navbar navbar-expand-lg">
 
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <!-- INSERT YOUR LOGO HERE -->
                         <img src="assets/images/logo.svg" alt="logo" width="150" class="logo">
                         <!-- INSERT YOUR WHITE LOGO HERE -->
@@ -113,7 +113,7 @@
                                 <!-- <ul class="dropdown-menu"> -->
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="index.html"></a> -->
+                                        <!-- <a class="dropdown-item" href="index.php"></a> -->
                                     <!-- </li> -->
                                 <!-- </ul> -->
                             </li>
@@ -129,12 +129,12 @@
                                 <!-- <ul class="dropdown-menu"> -->
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-list.html">Movie List 1</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-list.php">Movie List 1</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-list2.html">Movie List 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-list2.php">Movie List 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
@@ -144,32 +144,32 @@
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid2.html">Movie Grid 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid2.php">Movie Grid 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid3.html">Movie Grid 3</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid3.php">Movie Grid 3</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid4.html">Movie Grid 4</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid4.php">Movie Grid 4</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-detail.html">Movie Detail</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-detail.php">Movie Detail</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-detail2.html">Movie Detail 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-detail2.php">Movie Detail 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="watch-later.html">Watch Later</a> -->
+                                        <!-- <a class="dropdown-item" href="watch-later.php">Watch Later</a> -->
                                     <!-- </li> -->
                                 <!-- </ul> -->
                             </li>
@@ -401,7 +401,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Star Wars</a>
+                                    <a href="movie-detail.php">Star Wars</a>
                                 </h4>
                                 <span class="released">14 Dec 2017</span>
                             </div>
@@ -448,7 +448,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Brain</a>
+                                    <a href="movie-detail.php">The Brain</a>
                                 </h4>
                                 <span class="released">20 Dec 2017</span>
                             </div>
@@ -495,7 +495,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Mummy</a>
+                                    <a href="movie-detail.php">The Mummy</a>
                                 </h4>
                                 <span class="released">9 Jun 2017</span>
                             </div>
@@ -542,7 +542,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Parrot</a>
+                                    <a href="movie-detail.php">The Parrot</a>
                                 </h4>
                                 <span class="released">20 Jan 2017</span>
                             </div>
@@ -589,7 +589,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Star Wars</a>
+                                    <a href="movie-detail.php">Star Wars</a>
                                 </h4>
                                 <span class="released">14 Dec 2017</span>
                             </div>
@@ -636,7 +636,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Brain</a>
+                                    <a href="movie-detail.php">The Brain</a>
                                 </h4>
                                 <span class="released">20 Dec 2017</span>
                             </div>
@@ -711,7 +711,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Tomb Raider</a>
+                                    <a href="movie-detail.php">Tomb Raider</a>
                                 </h4>
                                 <span class="released">Release Date: 15 Mar 2018</span>
                             </div>
@@ -746,7 +746,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Jungle</a>
+                                    <a href="movie-detail.php">The Jungle</a>
                                 </h4>
                             </div>
                             <!-- End of Movie Details -->
@@ -774,7 +774,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Fast and Furious</a>
+                                    <a href="movie-detail.php">Fast and Furious</a>
                                 </h4>
                             </div>
                             <!-- End of Movie Details -->
@@ -841,7 +841,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Daredevil</a>
+                                    <a href="movie-detail.php">Daredevil</a>
                                 </h4>
                                 <span class="released">19 Apr 2015</span>
                             </div>
@@ -888,7 +888,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Stranger Things</a>
+                                    <a href="movie-detail.php">Stranger Things</a>
                                 </h4>
                                 <span class="released">15 Jul 2016</span>
                             </div>
@@ -935,7 +935,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Luke Cage</a>
+                                    <a href="movie-detail.php">Luke Cage</a>
                                 </h4>
                                 <span class="released">30 Sep 2016</span>
                             </div>
@@ -982,7 +982,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">The Flash</a>
+                                    <a href="movie-detail.php">The Flash</a>
                                 </h4>
                                 <span class="released">7 Oct 2014</span>
                             </div>
@@ -1029,7 +1029,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Daredevil</a>
+                                    <a href="movie-detail.php">Daredevil</a>
                                 </h4>
                                 <span class="released">19 Apr 2015</span>
                             </div>
@@ -1076,7 +1076,7 @@
                             <!-- Start of Movie Details -->
                             <div class="movie-details">
                                 <h4 class="movie-title">
-                                    <a href="movie-detail.html">Stranger Things</a>
+                                    <a href="movie-detail.php">Stranger Things</a>
                                 </h4>
                                 <span class="released">15 Jul 2016</span>
                             </div>
@@ -1423,7 +1423,7 @@
                         <div class="bloglist-post-holder shadow-hover">
 
                             <!-- Blog Post Thumbnail -->
-                            <a href="blog-post-detail.html" class="bloglist-thumb-link hover-link">
+                            <a href="blog-post-detail.php" class="bloglist-thumb-link hover-link">
                                 <div class="bloglist-post-thumbnail" style="background: url(assets/images/blog/bloglist-1.jpg)"></div>
                             </a>
 
@@ -1435,7 +1435,7 @@
                                 </span>
 
                                 <h4 class="bloglist-title">
-                                    <a href="blog-post-detail.html">Top 10 Action Movies</a>
+                                    <a href="blog-post-detail.php">Top 10 Action Movies</a>
                                 </h4>
 
                                 <div class="bloglist-meta">
@@ -1457,7 +1457,7 @@
                         <div class="bloglist-post-holder shadow-hover">
 
                             <!-- Blog Post Thumbnail -->
-                            <a href="blog-post-detail.html" class="bloglist-thumb-link hover-link">
+                            <a href="blog-post-detail.php" class="bloglist-thumb-link hover-link">
                                 <div class="bloglist-post-thumbnail" style="background: url(assets/images/blog/bloglist-2.jpg)"></div>
                             </a>
 
@@ -1469,7 +1469,7 @@
                                 </span>
 
                                 <h4 class="bloglist-title">
-                                    <a href="blog-post-detail.html">Oscar Awards</a>
+                                    <a href="blog-post-detail.php">Oscar Awards</a>
                                 </h4>
 
                                 <div class="bloglist-meta">
@@ -1491,7 +1491,7 @@
                         <div class="bloglist-post-holder shadow-hover">
 
                             <!-- Blog Post Thumbnail -->
-                            <a href="blog-post-detail.html" class="bloglist-thumb-link hover-link">
+                            <a href="blog-post-detail.php" class="bloglist-thumb-link hover-link">
                                 <div class="bloglist-post-thumbnail" style="background: url(assets/images/blog/bloglist-3.jpg)"></div>
                             </a>
 
@@ -1503,7 +1503,7 @@
                                 </span>
 
                                 <h4 class="bloglist-title">
-                                    <a href="blog-post-detail.html">Top Upcoming Movies</a>
+                                    <a href="blog-post-detail.php">Top Upcoming Movies</a>
                                 </h4>
 
                                 <div class="bloglist-meta">
@@ -1911,5 +1911,5 @@
 </body>
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:26:51 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:26:51 GMT -->
 </html>

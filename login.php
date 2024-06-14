@@ -17,12 +17,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($result->num_rows > 0) {
         $row = $result->fetch_assoc();
         // User authenticated
-        $_SESSION['User_Email'] = $User_Email;
-        $error = "<script>alert('login successfully!')</script>";
-        header("Location: index.php"); // Redirect to dashboard page
+        $_SESSION['User_Email'] = $email;
+        echo "<script>alert('login successfully!');window.location.href='index.php'</script>";
+        // Redirect to dashboard page
     } else {
         // Invalid credentials
-        $error = "Invalid username or password.";
+        echo "<script>alert('Invalid username or password.');window.location.href='index.php'</script>";
+
     }
 
     // Close connection

@@ -3,7 +3,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/movie-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/movie-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 <head>
     <meta charset="UTF-8">
 
@@ -87,7 +87,7 @@
                 <!-- ====== Start of Navbar ====== -->
                 <nav class="navbar navbar-expand-lg">
 
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <!-- INSERT YOUR LOGO HERE -->
                         <img src="assets/images/logo.svg" alt="logo" width="150" class="logo">
                         <!-- INSERT YOUR WHITE LOGO HERE -->
@@ -113,22 +113,22 @@
                                 <ul class="dropdown-menu">
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="index.html">Home Version 1</a>
+                                        <a class="dropdown-item" href="index.php">Home Version 1</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="index2.html">Home Version 2</a>
+                                        <a class="dropdown-item" href="index2.php">Home Version 2</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="index3.html">Home Version 3</a>
+                                        <a class="dropdown-item" href="index3.php">Home Version 3</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="index4.html">Home Version 4</a>
+                                        <a class="dropdown-item" href="index4.php">Home Version 4</a>
                                     </li>
 
                                 </ul>
@@ -142,7 +142,7 @@
                                 <ul class="dropdown-menu">
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="404.html">404 Page</a>
+                                        <a class="dropdown-item" href="404.php">404 Page</a>
                                     </li>
 
                                     <!-- Divider -->
@@ -150,17 +150,17 @@
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="celebrities-list.html">celebrities list</a>
+                                        <a class="dropdown-item" href="celebrities-list.php">celebrities list</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="celebrities-grid.html">celebrities grid</a>
+                                        <a class="dropdown-item" href="celebrities-grid.php">celebrities grid</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="celebrity-detail.html">celebrity detail</a>
+                                        <a class="dropdown-item" href="celebrity-detail.php">celebrity detail</a>
                                     </li>
 
                                     <!-- Divider -->
@@ -168,27 +168,27 @@
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="contact-us.html">Contact us</a>
+                                        <a class="dropdown-item" href="contact-us.php">Contact us</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="coming-soon.html">Coming soon</a>
+                                        <a class="dropdown-item" href="coming-soon.php">Coming soon</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="pricing.html">Pricing Plan</a>
+                                        <a class="dropdown-item" href="pricing.php">Pricing Plan</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="login-register.html">Login - Register</a>
+                                        <a class="dropdown-item" href="login-register.php">Login - Register</a>
                                     </li>
                                     
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="testimonials.html">Testimonials</a>
+                                        <a class="dropdown-item" href="testimonials.php">Testimonials</a>
                                     </li>
                                 </ul>
                             </li>
@@ -201,47 +201,47 @@
                                 <ul class="dropdown-menu">
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-list.html">Movie List 1</a>
+                                        <a class="dropdown-item" href="movie-list.php">Movie List 1</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-list2.html">Movie List 2</a>
+                                        <a class="dropdown-item" href="movie-list2.php">Movie List 2</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-grid.html">Movie Grid 1</a>
+                                        <a class="dropdown-item" href="movie-grid.php">Movie Grid 1</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-grid2.html">Movie Grid 2</a>
+                                        <a class="dropdown-item" href="movie-grid2.php">Movie Grid 2</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-grid3.html">Movie Grid 3</a>
+                                        <a class="dropdown-item" href="movie-grid3.php">Movie Grid 3</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-grid4.html">Movie Grid 4</a>
+                                        <a class="dropdown-item" href="movie-grid4.php">Movie Grid 4</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-detail.html">Movie Detail</a>
+                                        <a class="dropdown-item" href="movie-detail.php">Movie Detail</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="movie-detail2.html">Movie Detail 2</a>
+                                        <a class="dropdown-item" href="movie-detail2.php">Movie Detail 2</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="watch-later.html">Watch Later</a>
+                                        <a class="dropdown-item" href="watch-later.php">Watch Later</a>
                                     </li>
                                 </ul>
                             </li>
@@ -254,22 +254,22 @@
                                 <ul class="dropdown-menu">
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="blog-list.html">Blog List</a>
+                                        <a class="dropdown-item" href="blog-list.php">Blog List</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="blog-list-fullwidth.html">Blog List Fullwidth</a>
+                                        <a class="dropdown-item" href="blog-list-fullwidth.php">Blog List Fullwidth</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="blog-post-detail.html">Blog Detail</a>
+                                        <a class="dropdown-item" href="blog-post-detail.php">Blog Detail</a>
                                     </li>
 
                                     <!-- Menu Item -->
                                     <li>
-                                        <a class="dropdown-item" href="blog-post-detail-fullwidth.html">Blog Detail Fullwidth</a>
+                                        <a class="dropdown-item" href="blog-post-detail-fullwidth.php">Blog Detail Fullwidth</a>
                                     </li>
 
                                 </ul>
@@ -277,7 +277,7 @@
 
                             <!-- Menu Item -->
                             <li class="nav-item">
-                                <a class="nav-link" href="contact-us.html">Contact us</a>
+                                <a class="nav-link" href="contact-us.php">Contact us</a>
                             </li>
 
                         </ul>
@@ -328,7 +328,7 @@
                 <div class="inner">
                     <h2 class="title">Movie List 1</h2>
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Movie List 1</li>
                     </ol>
                 </div>
@@ -348,8 +348,8 @@
                     <div class="col-md-6">
                         <!-- Layout Switcher -->
                         <div class="layout-switcher">
-                            <a href="movie-list.html" class="list active"><i class="fa fa-align-justify"></i></a>
-                            <a href="movie-grid.html" class="grid"><i class="fa fa-th"></i></a>
+                            <a href="movie-list.php" class="list active"><i class="fa fa-align-justify"></i></a>
+                            <a href="movie-grid.php" class="grid"><i class="fa fa-th"></i></a>
                         </div>
                     </div>
 
@@ -428,7 +428,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -484,7 +484,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -540,7 +540,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -596,7 +596,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -652,7 +652,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -708,7 +708,7 @@
 
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 
-                                        <a href="movie-detail.html" class="btn btn-main btn-effect">details</a>
+                                        <a href="movie-detail.php" class="btn btn-main btn-effect">details</a>
                                     </div>
                                 </div>
 
@@ -1079,5 +1079,5 @@
 </body>
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/movie-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/movie-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 </html>

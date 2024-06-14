@@ -3,7 +3,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:04 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:04 GMT -->
 <head>
     <meta charset="UTF-8">
 
@@ -87,7 +87,7 @@
                 <!-- ====== Start of Navbar ====== -->
                 <nav class="navbar navbar-expand-lg">
 
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <!-- INSERT YOUR LOGO HERE -->
                         <img src="assets/images/logo.svg" alt="logo" width="150" class="logo">
                         <!-- INSERT YOUR WHITE LOGO HERE -->
@@ -107,13 +107,13 @@
                         <ul class="navbar-nav mx-auto" id="main-menu">
                             <!-- Menu Item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link " href="index.html"  aria-haspopup="true" aria-expanded="false">Home</a>
+                                <a class="nav-link " href="index.php"  aria-haspopup="true" aria-expanded="false">Home</a>
 
                                 <!-- Dropdown Menu -->
                                 <!-- <ul class="dropdown-menu"> -->
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="index.html"></a> -->
+                                        <!-- <a class="dropdown-item" href="index.php"></a> -->
                                     <!-- </li> -->
                                 <!-- </ul> -->
                             </li>
@@ -123,67 +123,67 @@
 
                             <!-- Menu Item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link " href="movie-grid.html"  aria-haspopup="true" aria-expanded="false">Movies & TV Shows</a>
+                                <a class="nav-link " href="movie-grid.php"  aria-haspopup="true" aria-expanded="false">Movies & TV Shows</a>
 
                                 <!-- Dropdown Menu -->
                                 <!-- <ul class="dropdown-menu"> -->
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-list.html">Movie List 1</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-list.php">Movie List 1</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-list2.html">Movie List 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-list2.php">Movie List 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid.html">Movie Grid 1</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid.php">Movie Grid 1</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid2.html">Movie Grid 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid2.php">Movie Grid 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid3.html">Movie Grid 3</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid3.php">Movie Grid 3</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-grid4.html">Movie Grid 4</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-grid4.php">Movie Grid 4</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-detail.html">Movie Detail</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-detail.php">Movie Detail</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="movie-detail2.html">Movie Detail 2</a> -->
+                                        <!-- <a class="dropdown-item" href="movie-detail2.php">Movie Detail 2</a> -->
                                     <!-- </li> -->
 
                                     <!-- Menu Item -->
                                     <!-- <li> -->
-                                        <!-- <a class="dropdown-item" href="watch-later.html">Watch Later</a> -->
+                                        <!-- <a class="dropdown-item" href="watch-later.php">Watch Later</a> -->
                                     <!-- </li> -->
                                 <!-- </ul> -->
                             </li>
 
                             <!-- Menu Item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link " href="blog-list.html"  aria-haspopup="true" aria-expanded="false">Blog</a>
+                                <a class="nav-link " href="blog-list.php"  aria-haspopup="true" aria-expanded="false">Blog</a>
 
                                
                             </li>
 
                             <!-- Menu Item -->
                             <li class="nav-item">
-                                <a class="nav-link" href="contact-us.html">Contact us</a>
+                                <a class="nav-link" href="contact-us.php">Contact us</a>
                             </li>
 
                         </ul>
@@ -234,7 +234,7 @@
                 <div class="inner">
                     <h2 class="title">Contact Us</h2>
                     <ol class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Contact Us</li>
                     </ol>
                 </div>
@@ -669,5 +669,5 @@
 </body>
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 </html>

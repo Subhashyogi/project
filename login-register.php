@@ -9,7 +9,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/login-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/login-register.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 <head>
     <meta charset="UTF-8">
 
@@ -259,5 +259,5 @@
 </body>
 
 
-<!-- Mirrored from gnodesign.com/templates/movify/login-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
+<!-- Mirrored from gnodesign.com/templates/movify/login-register.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Jun 2024 02:27:06 GMT -->
 </html>
